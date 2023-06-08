@@ -12,7 +12,7 @@
 # About
 This project was developed as a TDD challenge, using Spring Boot and the JUnit testing framework. The goal of the challenge was to implement automated tests for two control classes: CityController and EventController, using the TDD (Test Driven Development) software development pattern.
 
-[DevSuperior](https://devsuperior.com.br/) Spring Boot Bootcamp Project 0.2: Automated Tests. 
+[DevSuperior](https://devsuperior.com.br/) Spring Boot Bootcamp Project 0.2: TDD (Test Driven Development). 
 
 
 ## Technologies used
