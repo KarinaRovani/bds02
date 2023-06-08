@@ -33,7 +33,7 @@ This project was developed as a TDD challenge, using Spring Boot and the JUnit t
 ## Images
 <figure>
 <div align="center">
-  <img src=".github/img/conceptualModel.PNG"  alt="Conceptual Model">
+  <img src=".github/img/conceptualModel.png"  alt="Conceptual Model">
    <br>
   <figcaption>Conceptual Model</figcaption>
 </div>
